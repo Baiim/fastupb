@@ -47,15 +47,10 @@
                 </div>
               </div>
             </div>
+            <br>
             <!-- Thumbnail Video Link-->
-            <div class="video-link-wrapper">
-              <div class="unit align-items-center">
-                <div class="unit-body text-right">
-                  <h5><span class="big">Watch Trailer</h5>
-                </div>
-                <div class="unit-right"><a class="video-link" href="https://youtu.be/nbfFDnKkMvw" data-lightgallery="item">
-                    <div class="video-link-bg" data-triangle=".video-link-overlay"><span class="video-link-overlay"></span></div><span class="icon fa-play"></span></a></div>
-              </div>
+            <div>
+                <div class="group"><a class="button button-secondary box-with-triangle-right wow fadeScale" href="https://youtu.be/ADVbFfihJ84" data-lightgallery="item" data-triangle=".button-overlay"><span>Watch Trailer</span><span class="button-overlay"></span></a><a class="button button-primary wow fadeScale" href="https://twibbon.fastupb.com/" target="_blank" data-triangle=".button-overlay"><span>Make Twibbon</span><span class="button-overlay"></span></a></div>
             </div>
           </div>
           <!-- Swiper Slider Absolute-->
