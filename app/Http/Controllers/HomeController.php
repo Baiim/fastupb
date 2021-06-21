@@ -10,4 +10,12 @@ class HomeController extends Controller
     {
         return view('pages.home');
     }
+    public function form()
+    {
+        return view('pages.form');
+    }
+    public function lomba()
+    {
+        return view('pages.lomba');
+    }
 }
