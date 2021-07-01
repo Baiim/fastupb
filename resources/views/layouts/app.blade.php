@@ -27,6 +27,14 @@
         <canvas class="waves" data-speed="5" data-wave-width="150%" data-animation="SineInOut"></canvas>
         <!-- Swiper Content-->
     @yield('content')
+            {{-- Section Lomba --}}
+            @include('includes.lomba')
+            <!-- Section Who Is Speaking-->
+            @include('includes.guest')
+            <!-- Section Conference Schedule-->
+            @include('includes.jadwal')
+            <!-- Section Official Sponsors-->
+            @include('includes.sponsor')
         <!-- Swiper Slider Absolute-->
       <!-- Footer Classic-->
       @include('includes.footer')

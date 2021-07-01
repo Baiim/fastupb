@@ -1,12 +1,12 @@
       <section class="section section-lg bg-gray-900">
         <div class="container">
           <div class="row row-30">
-            <div class="col-xs-10 col-lg-4 align-self-center"><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="images/logo-svg.svg" srcset="images/logo-svg.svg" alt="Voelas"/><img class="brand-logo-light" src="images/logo-svg-2.svg" srcset="images/logo-svg-2.svg" alt="FAST"/></a></div>
+            <div class="col-xs-10 col-lg-4 align-self-center"><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="images/logo/logo-fast.png" srcset="images/logo/logo-fast.png" alt="Voelas"/><img class="brand-logo-light" src="images/logo/logo-fast.png" srcset="images/logo/logo-fast.png" alt="FAST"/></a></div>
             <div class="col-xs-10 col-sm-6 col-lg-4">
               <h5><span class="big font-weight-sbold">Event detail</span></h5>
               <div class="event-detail">
                 <p class="event-detail-time big">
-                  <time data-splitting datetime="2019-01-05">January 5 to 9, 2019</time>
+                  <time data-splitting datetime="2019-01-05">September, 4 - 5, 2021</time>
                 </p>
                 <p class="event-detail-address big" data-splitting>Kampus Universitas Pelita Bangsa, Jl. Inspeksi Kalimalang No.9, Cibatu, Cikarang Sel., Bekasi, Jawa Barat 17530 </p> <span><a class="event-detail-link" href="https://goo.gl/maps/59zpZ4sWrg5N4WmLA" target="_blank">Lihat di MAP</a></span> <br>
                 <p class="event-detail-address big" data-splitting>Gedung Dinas Pariwisata Kabupaten Bekasi, Sertajaya, Kec. Cikarang Tim., Bekasi, Jawa Barat 17530</p><span><a class="event-detail-link" href="https://goo.gl/maps/rGp3TrTGfr72jijC7" target="_blank">Lihat di MAP</a></span>
@@ -19,7 +19,7 @@
                 <p class="big">Jangan lewatkan update menarik seputer FAST UPB<br class="d-none d-xl-block"> Ikuti media social kami.
                 </p>
                 <ul class="list-inline list-inline-xs">
-                  <li><a class="icon icon-rect  fa-instagram" href="#" data-triangle=".icon-rect-overlay">
+                  <li><a class="icon icon-rect  fa-instagram" href="https://www.instagram.com/fastupb/" data-triangle=".icon-rect-overlay">
                       <div class="icon-rect-overlay"></div></a> &nbsp; IG: @fastupb</li>
                 </ul>
               </div>
