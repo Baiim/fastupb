@@ -89,7 +89,7 @@
                       <div>
                         <!-- Sponsor--><a class="sponsor" href="{{route('film')}}" data-triangle=".sponsor-overlay">
                           <div class="sponsor-overlay"></div>
-                          <div class="sponsor-img"><img src="images/lomba/kg-8.png" alt="" width="116" height="68"/>
+                          <div class="sponsor-img"><img src="images/lomba/kg-9.png" alt="" width="116" height="68"/>
                           </div></a>
                       </div>
                     </div>
@@ -99,7 +99,7 @@
                       <div>
                         <!-- Sponsor--><a class="sponsor" href="{{route('film')}}" data-triangle=".sponsor-overlay">
                           <div class="sponsor-overlay"></div>
-                          <div class="sponsor-img"><img src="images/lomba/kg-8.png" alt="" width="116" height="68"/>
+                          <div class="sponsor-img"><img src="images/lomba/kg-10.png" alt="" width="116" height="68"/>
                           </div></a>
                       </div>
                     </div>

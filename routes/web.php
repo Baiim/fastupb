@@ -36,6 +36,15 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 });
 
-// Route for Auth
+// Route for Kegiatan
 Route::get('/film', [HomeController::class, 'film'])
 ->name('film');
+Route::get('/cerdas-cermat', [HomeController::class, 'cerdas'])
+->name('cerdas');
+Route::get('/lomba-iot', [HomeController::class, 'iot'])
+->name('iot');
+Route::get('/lomba-ui&ux', [HomeController::class, 'ui'])
+->name('ui');
+Route::get('/esport-competition', [HomeController::class, 'moba'])
+->name('moba');
+

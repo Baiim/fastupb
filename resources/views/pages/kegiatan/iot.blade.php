@@ -1,6 +1,6 @@
 @extends('layouts.page')
 @section('title')
-    UI/Ux Design Competition | FAST UPB 2021
+    IoT Competition | FAST UPB 2021
 @endsection
 @section('content')
 <section class="breadcrumbs-custom bg-image context-dark" style="background-image: url(images/bg-breadcrumbs-01-1894x424.jpg);">
@@ -9,7 +9,7 @@
         <li><a href="/">Home</a></li>
         <li>Kegiatan</li>
       </ul>
-      <h3 class="breadcrumbs-custom-title">UI/Ux Design Competition</h3>
+      <h3 class="breadcrumbs-custom-title">Iot Competition</h3>
     </div>
   </section>
       <!-- Section Who We are-->
@@ -17,8 +17,8 @@
         <div class="container">
           <div class="row row-30 justify-content-center">
             <div class="col-md-10 col-lg-6">
-              <h6>UI/Ux Design Competition</h6>
-              <h4>“With UI/UX The Future Of Nation” <br> Festival Ajang Sinergisitas Teknologi Universitas Pelita Bangsas</h4>
+              <h6>LOMBA IoT</h6>
+              <h4>“MODERN SMART TECHNOLOGY AND CULTURE” <br> Festival Ajang Sinergisitas Teknologi Universitas Pelita Bangsas</h4>
               <p class="paragraph-inset-right-25"><b>Internet of Things (IoT)</b> adalah sebuah konsep dimana sebuah objek tertentu
                 memiliki kemampuan untuk mengirimkan data lewat melalui jaringan dan tanpa
                 adanya interaksi dari manusia ke manusia ataupun dari manusia ke perangkat
@@ -196,10 +196,18 @@
                                     <a href="mailto:himatif@pelitabangsa.ac.id">himatif@pelitabangsa.ac.id</a> Template dapat diunduh di <a href="">Link Template</a>
                                 </li>
                                 <li>
-                                    Panitia berhak mendiskualifikasi dan mencabut gelar juara jika ditemukan
-                                    kecurangan atau pelanggaran terhadap karya atau aturan UI/UX Design
-                                    Competition
+                                    Karya harus sesuai dengan tema yaitu
+                                    <b>“MODERN SMART TECHNOLOGY AND CULTURE”</b>
                                 </li>
+                                <li>
+                                    Perubahan anggota tim setelah pendaftaran online dan selama kompetisi
+                                    tidak diperkenankan kecuali ada alasan yang sangat mendesak.
+                                </li>
+                                <li>
+                                    Panitia berhak mendiskualifikasi dan mencabut gelar juara jika ditemukan
+                                    kecurangan atau pelanggaran terhadap karya atau aturan IOT Competition.
+                                </li>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -213,45 +221,31 @@
                         <div class="card-body">
                             <p>
                                 <li>
-                                    Desain UI/UX bermanfaat untuk membangun bisnis yang ada pada masa depan.
+                                    <b>Ketentuan Penulisan Proposal adalah sebagai berikut :</b>
+                                    <ol>1. Font Times New Roman</ol>
+                                    <ol>2. Ukuran 12</ol>
+                                    <ol>3. Spasi 1.5</ol>
+                                    <ol>4. Margin atas, kiri = 4 cm</ol>
+                                    <ol>5. Margin bawah, kanan = 3 cm </ol>
                                 </li>
                                 <li>
-                                    Tools yang digunakan bebas (seperti : Adobe XD, Figma, DLL).
-                                </li>
-                                <li>
-                                    Setiap kelompok hanya diperkenankan mengirimkan satu karya terbaiknya.
-                                </li>
-                                <li>
-                                    Karya yang dilombakan merupakan ide orisinil dan tidak mengandung
-                                    unsur SARA, Pornografi dan tidak bertentangan dengan norma yang
-                                    berlaku.
-                                </li>
-                                <li>
-                                    Karya UI/UX berbasis web.
-                                </li>
-                                <li>
-                                    Karya harus sesuai dengan tema yaitu “ With UI/UX The Future Of Nation”.
-                                </li>
-                                <li>
-                                    Karya yang dikirimkan tidak sedang/belum pernah memenangi
-                                    penghargaan dilomba manapun.
-                                </li>
-                                <li>
-                                    Hak dari karya peserta pada kompetisi Desain UI/UX akan tetap menjadi
-                                    hak daripeserta.
-                                </li>
-                                <li>
-                                    Ketentuan penilaian :
-                                    <ol>
-                                        1. Penilaian dilakukan oleh dewan juri yang ditetapkan oleh panitia.
+                                    <b>Format proposal ialah sebagai berikut :</b>
+                                    <ol>1. Cover Proposal, Judul, Nama Tim dan Anggota (Nama, NIM) Logo FAST IT
+                                        di pojok kanan atas dan logo Perguruan Tinggi di pojok kiri atas
                                     </ol>
                                     <ol>
-                                        2. Karya yang diterima adalah karya yang dikirimkan sesuai dengan tema
-                                        danbatas waktu yang telah ditentukan.
-                                    </ol>
-                                    <ol>
-                                        3. Pemenang kompetisi merupakan peserta yang memiliki nilai tertinggi
-                                        darisemua aspek penilaian yang ditetapkan oleh panitia dan dewan juri.
+                                        2. Lembar Pengesahan
+                                        <ol>a. Jenis Kegiatan (FAST IT)</ol>
+                                        <ol>b. Nama tim</ol>
+                                        <ol>c. Identitas (nama, NIM) ketua kelompok</ol>
+                                        <ol>d. Jumlah anggota time. Identitas Dosen pembimbing</ol>
+                                        <ol>e. Latar Belakang</ol>
+                                        <ol>f. Tujuan dan Manfaat</ol>
+                                        <ol>g. Metode dan analisis</ol>
+                                        <ol>h. Prototype </ol>
+                                        <ol>i. Desain Mock-Up dan Dokumentasi</ol>
+                                        <ol>j. Penggunaan Anggaran</ol>
+                                        <ol>k. Daftar Pustaka</ol>
                                     </ol>
                                 </li>
                             </p>
@@ -359,7 +353,7 @@
                                             <li>Inovatif</li>
                                             <li>Konsistensi tata letak, font, Bahasa, dan warnayang
                                                 digunakan.</li>
-                                            <li>Kesesuaian desain berdasarkan prinsip UI/UX.</li>
+                                            <li>Kesesuaian desain berdasarkan prinsip IOT.</li>
                                             <li>Desain realistis dan mampu diimplementasikan
                                                 pada teknologi yang akan digunakan.
                                             </li>
@@ -402,12 +396,12 @@
                     </div>
                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                         <div class="card-body">
-                            <p><b>Total hadiah untuk kompetisi senilai jutaan rupiah, bagi pemenang (Juara I,
-                                II,III) diberikan penghargaan berupa sertifikat dan dana pembinaan, sesuai
-                                dengan peringkatjuara :</b>
+                            <p><b>Total hadiah untuk kompetisi senilai jutaan rupiah, bagi pemenang (Juara I, II,III)
+                                diberikan penghargaan berupa sertifikat dan dana pembinaan, sesuai dengan peringkat
+                                juara :</b>
                             </p>
                             <li>
-                                Juara I : Rp. 750.000 + Sertifikat
+                                Juara I  : Rp. 1.000.000 + Sertifikat
                             </li>
                             <li>
                                 Juara II : Rp. 500.000 + Sertifikat
@@ -415,7 +409,6 @@
                             <li>
                                 Juara III : Rp. 300.000 + Sertifikat
                             </li>
-                            <p><b>Seluruh peserta yang berpartisipasi dalam lomba akan mendapatkan sertifikat</b></p>
                         </div>
                     </div>
                 </div>

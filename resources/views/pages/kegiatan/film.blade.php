@@ -6,7 +6,7 @@
 <section class="breadcrumbs-custom bg-image context-dark" style="background-image: url(images/bg-breadcrumbs-01-1894x424.jpg);">
     <div class="container">
       <ul class="breadcrumbs-custom-path">
-        <li><a href="index.html">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li>Kegiatan</li>
       </ul>
       <h3 class="breadcrumbs-custom-title">Short Film</h3>
@@ -71,7 +71,7 @@
 
             </div>
             <div class="col-md-10 col-lg-6">
-              <div class="img-separated"><img src="images/about-01-562x588.jpg" alt="" width="562" height="588"/>
+              <div class="img-separated"><img src="images/lomba/bg/film.jpeg" alt="" width="562" height="588"/>
               </div>
             </div>
             <div class="accordion" id="accordionExample">
