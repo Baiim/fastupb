@@ -35,3 +35,7 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('/admin', [DashboardController::class, 'index'])->name('dashboard');
     Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 });
+
+// Route for Auth
+Route::get('/film', [HomeController::class, 'film'])
+->name('film');

@@ -18,4 +18,9 @@ class HomeController extends Controller
     {
         return view('pages.lomba');
     }
+    public function film()
+    {
+        return view('pages.kegiatan.film');
+    }
+
 }
