@@ -115,7 +115,7 @@
 
             </div>
             <div class="col-md-10 col-lg-6">
-              <div class="img-separated"><img src="images/lomba/bg/iot.jpeg" alt="" width="562" height="588"/>
+              <div class="img-separated"><img src="images/lomba/bg/ux.jpeg" alt="" width="562" height="588"/>
               </div>
             </div>
             <div class="accordion" id="accordionExample">
@@ -135,29 +135,42 @@
                                       <tr>
                                         <th>Kegiatan</th>
                                         <th>Tanggal</th>
+                                        <th>Lokasi</th>
                                       </tr>
                                     </thead>
                                     <tbody>
                                       <tr>
-                                        <td>Pendaftaran dan Pengumpulan Karya</td>
-                                        <td>Senin, 1 Agustus 2021 – Selasa, 30 Agustus
-                                            2021</td>
+                                        <td>Pendaftaran</td>
+                                        <td>11 September – 03
+                                            Oktober 2021
+                                        </td>
+                                        <td>-</td>
                                       </tr>
                                       <tr>
-                                        <td>Pengumuman Tahap 1 </td>
-                                        <td>Senin, 31 Agustus 2021</td>
+                                        <td>Submit </td>
+                                        <td>11 September – 03
+                                            Oktober 2021
+                                        </td>
+                                        <td>Online</td>
                                       </tr>
                                       <tr>
                                         <td>Technical Meeting </td>
-                                        <td>Sabtu, 3 September 2021</td>
+                                        <td> 11 September – 03
+                                            Oktober 2021
+                                        </td>
+                                        <td>Grup Whatsapp / Guide
+                                            Book
+                                        </td>
                                       </tr>
                                       <tr>
                                         <td>Presentasi Karya (penjurian)</td>
-                                        <td>Sabtu, 4 September 2021</td>
+                                        <td>10 Oktober 2021 </td>
+                                        <td>Google Meet / Zoom </td>
                                       </tr>
                                       <tr>
                                         <td>Pengumuman Lomba</td>
-                                        <td>Minggu, 5 September 2021</td>
+                                        <td>17 Oktober 2021 </td>
+                                        <td>Auditorium Universitas Pelita Bangsa</td>
                                       </tr>
                                     </tbody>
                                   </table>
@@ -174,32 +187,39 @@
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                         <div class="card-body">
                             <p> <li>
-                                    Peserta adalah Mahasiswa Aktif program studi Sistem Informasi PTN/PTS
-                                    S1/Diploma di seluruh Indonesia dibuktikan dengan <b>KTM.</b>
+                                    Peserta adalah mahasiswa aktif program studi Sistem Informasi PTN/PTS
+                                S1/Diploma di seluruh Indonesia dibuktikan dengan KTM.
                                 </li>
                                 <li>
                                     Setiap perguruan tinggi diperbolehkan mengirimkan perwakilan lebih dari 1 tim.
                                 </li>
                                 <li>
-                                    Setiap tim harus berasal dari perguruan tinggi yang sama
+                                    Setiap tim harus berasal dari perguruan tinggi yang sama.
                                 </li>
                                 <li>
-                                    Setiap tim maksimal terdiri 1-3 Anggota.
+                                    SSetiap tim maksimal terdiri 1-3 Anggota
                                 </li>
                                 <li>
                                     Setiap anggota yang terdaftar hanya boleh bergabung dalam satu tim.
                                 </li>
+                                <li>Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan
+                                    oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan
+                                    Proposal Karya melalui email himatif@pelitabangsa.ac.id template dapat
+                                    diunduh di ... <a href="#">Link</a>
+                                </li>
                                 <li>
-                                    Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang
-                                    disediakan oleh panitia disertai tanda tangan diatas materai yang dikirim
-                                    bersamaan dengan Proposal Karya melalui email
-                                    <a href="mailto:himatif@pelitabangsa.ac.id">himatif@pelitabangsa.ac.id</a> Template dapat diunduh di <a href="">Link Template</a>
+                                    Karya harus sesuai dengan tema yaitu “Modern Smart Technology And
+                                    Culture”
+                                </li>
+                                <li>
+                                    Perubahan anggota tim setelah pendaftaran online dan selama kompetisi tidak
+                                    diperkenankan kecuali ada alasan yang sangat mendesak.
                                 </li>
                                 <li>
                                     Panitia berhak mendiskualifikasi dan mencabut gelar juara jika ditemukan
-                                    kecurangan atau pelanggaran terhadap karya atau aturan UI/UX Design
-                                    Competition
+                                    kecurangan atau pelanggaran terhadap karya atau aturan IOT Competition.
                                 </li>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -210,50 +230,26 @@
                         </h2>
                     </div>
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+
                         <div class="card-body">
                             <p>
-                                <li>
-                                    Desain UI/UX bermanfaat untuk membangun bisnis yang ada pada masa depan.
-                                </li>
-                                <li>
-                                    Tools yang digunakan bebas (seperti : Adobe XD, Figma, DLL).
-                                </li>
-                                <li>
-                                    Setiap kelompok hanya diperkenankan mengirimkan satu karya terbaiknya.
-                                </li>
-                                <li>
-                                    Karya yang dilombakan merupakan ide orisinil dan tidak mengandung
-                                    unsur SARA, Pornografi dan tidak bertentangan dengan norma yang
-                                    berlaku.
-                                </li>
-                                <li>
-                                    Karya UI/UX berbasis web.
-                                </li>
-                                <li>
-                                    Karya harus sesuai dengan tema yaitu “ With UI/UX The Future Of Nation”.
-                                </li>
-                                <li>
-                                    Karya yang dikirimkan tidak sedang/belum pernah memenangi
-                                    penghargaan dilomba manapun.
-                                </li>
-                                <li>
-                                    Hak dari karya peserta pada kompetisi Desain UI/UX akan tetap menjadi
-                                    hak daripeserta.
-                                </li>
-                                <li>
-                                    Ketentuan penilaian :
-                                    <ol>
-                                        1. Penilaian dilakukan oleh dewan juri yang ditetapkan oleh panitia.
-                                    </ol>
-                                    <ol>
-                                        2. Karya yang diterima adalah karya yang dikirimkan sesuai dengan tema
-                                        danbatas waktu yang telah ditentukan.
-                                    </ol>
-                                    <ol>
-                                        3. Pemenang kompetisi merupakan peserta yang memiliki nilai tertinggi
-                                        darisemua aspek penilaian yang ditetapkan oleh panitia dan dewan juri.
-                                    </ol>
-                                </li>
+                                1. Design UI/UX bermanfaat untuk membangun bisnis yang ada pada masa depan. <br>
+                                2. Tools yang digunakan bebas (seperti : Adobe XD, Figma, DLL). <br>
+                                3. Setiap kelompok hanya diperkenankan mengirimkan satu karya terbaiknya. <br>
+                                4. Karya yang dilombakan merupakan ide orisinil dan tidak mengandung unsur
+                                SARA, pornografi dan tidak bertentangan dengan norma yang berlaku. <br>
+                                5. Karya UI/UX berbasis web. <br>
+                                6. Karya harus sesuai dengan tema yaitu “With UI/UX The Future Of Nation”. <br>
+                                7. Karya yang dikirimkan tidak sedang atau belum pernah memenangi penghargaan
+                                dilomba manapun. <br>
+                                8. Hak dari karya peserta pada kompetisi Design UI/UX akan tetap menjadi hak dari
+                                peserta. <br>
+                                9. Ketentuan penilaian : <br>
+                                10. Penilaian dilakukan oleh dewan juri yang ditetapkan oleh panitia. <br>
+                                11. Karya yang diterima adalah karya yang dikirimkan sesuai dengan tema dan batas
+                                waktu yang telah ditentukan. <br>
+                                12. Pemenang kompetisi merupakan peserta yang memiliki nilai tertinggi dari semua
+                                aspek penilaian yang ditetapkan oleh panitia dan dewan juri.  <br>
                             </p>
                         </div>
                     </div>
@@ -261,70 +257,50 @@
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <h2 class="mb-0">
-                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour">4. SISTEM KOMPETISI </button>
+                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour">4. SISTEM KOMPETISI</button>
                         </h2>
                     </div>
                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                         <div class="card-body">
-                            <p><b>BABAK PENYISIHAN</b></p>
-                            <li>Peserta telah mengikuti prosedur pendaftaran pada link dan melengkapi data
-                                pendaftaran dengan benar.
-                            </li>
-                            <li>
-                                Proposal karya merupakan ide orisinil.
-                            </li>
-                            <li>
-                                Proposal mengacu dan memiliki relevansi dengan tema yang telah ditentukan.
-                            </li>
-                            <li>
-                                Proposal disusun sesuai template proposal yang diberikan. Template proposaldapat
-                                diunduh di <a href="">link</a>
-                            </li>
-                            <li>
-                                Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas Karya Ke
-                                email <a href="mailto:himatif@pelitabangsa.ac.id">himatif@pelitabangsa.ac.id</a> dengan nama file <b>PROPOSAL
-                                KARYA_JUDUL</b> pada tanggal paling lambat Selasa, 3 Agustus 2021.
-                            </li>
-                            <li>
-                                Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada Senin, 23
-                                Agustus 2021.
-                            </li>
-                            <p><b>BABAK FINAL</b></p>
-                            <li>
-                                Peserta yang lolos tahap 1 melakukan Technical Meeting yang dilaksanakan pada
-                                Sabtu, 28 Agustus 2021 yang dilaksanakan secara online melalui Google Meet
-                                (apabila berhalangan hadir bisa menghubungi panitia pada contact person yang
-                                ada*).
-                            </li>
-                            <li>
-                                Peserta yang lolos tahap 1 melakukan presentasi karya secara online melalui Zoom
-                                pada Sabtu, 4 September 2021.
-                            </li>
-                            <li>
-                                Peserta berpakaian sopan.
-                            </li>
-                            <li>
-                                Cakupan presentasi adalah penjelasan mengenai karya dan desain karya di depan
-                                dewan juri.
-                            </li>
-                            <li>
-                                Waktu total presentasi adalah 25 menit, dengan rincian 10 menit untuk presentasi
-                                dan 15 menit untuk Tanya jawab.
-                            </li>
-                            <li>
-                                Penjelasan lebih lanjut mengenai teknis pelaksanaanya akan dijelaskan saat
-                                Technical Meeting.
-                            </li>
-                            <li>
-                                Pemenang akan diumumkan pada Minggu, 5 September 2021.
-                            </li>
+                            <span>1. BABAK PENYISIHAN</span>
+                            <p>
+                                • Peserta telah mengikuti prosedur pendaftaran pada link dan melengkapi data
+                                pendaftaran dengan benar. <br>
+                                • Proposal karya merupakan ide orisinil. <br>
+                                • Proposal mengacu dan memiliki relevansi dengan tema yang telah
+                                ditentukan. <br>
+                                • Proposal disusun sesuai template proposal yang diberikan. Template
+                                proposal dapat diunduh di ... <br>
+                                • Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas
+                                Karya ke email himatif@pelitabangsa.ac.id dengan nama file PROPOSAL
+                                KARYA_JUDUL pada tanggal paling lambat Selasa, 3 Oktober 2021. <br>
+                                • Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada Senin, 23
+                                Agustus 2021. <br>
+                            </p>
+                            <span>2. BABAK FINAL</span>
+                            <p>
+                                • Peserta yang lolos tahap 1 melakukan Technical Meeting yang dilaksanakan
+                                pada Sabtu, 28 Agustus 2021 yang dilaksanakan secara online melalui
+                                Google Meet (apabila berhalangan hadir bisa menghubungi panitia pada
+                                contact person yang ada*). <br>
+                                • Peserta yang lolos tahap 1 melakukan presentasi karya secara online melalui
+                                Zoom pada Minggu, 10 Oktober 2021. <br>
+                                • Peserta berpakaian sopan. <br>
+                                • Cakupan presentasi adalah penjelasan mengenai karya dan desain karya di
+                                depan dewan juri. <br>
+                                • Waktu total presentasi adalah 25 menit, dengan rincian 10 menit untuk
+                                presentasi dan 15 menit untuk tanya jawab. <br>
+                                • Penjelasan lebih lanjut mengenai teknis pelaksanaannya akan dijelaskan saat
+                                Technical Meeting. <br>
+                                • Pemenang akan diumumkan pada Minggu, 17 Oktober 2021.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header" id="headingFive">
                         <h2 class="mb-0">
-                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive">5. KRITERIA PENILAIAN </button>
+                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive">5. KRITERIA PENILAIAN  </button>
                         </h2>
                     </div>
                     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
@@ -335,62 +311,75 @@
                                 >
                                   <thead>
                                     <tr>
-                                      <th>Kriteria Penilaian</th>
+                                      <th>No. </th>
+                                      <th>Kriteria Penilaian </th>
                                       <th>Keterangan</th>
                                       <th>Nilai</th>
                                     </tr>
                                   </thead>
                                   <tbody>
                                     <tr>
-                                      <td>Kesesuaian karya </td>
+                                      <td>1.</td>
                                       <td>
-                                          <li>Kesesuaian karya yang dibuat dengan tema.</li>
-                                          <li>Orisinalitas solusi.</li>
-                                          <li>Fungsional solusi yang dibuat.</li>
-                                          <li>Dampak penggunaan dalam solusi tersebut.</li>
+                                        Kesesuaian karya
                                       </td>
                                       <td>
-                                          30
+                                        - Kesesuaian karya yang dibuat dengan tema. <br>
+                                        - Orisinalitas solusi. <br>
+                                        - Fungsional solusi yang dibuat. <br>
+                                        - Dampak penggunaan dalam solusi tersebut.
+                                    </td>
+                                      <td>
+                                        30
                                       </td>
                                     </tr>
                                     <tr>
-                                        <td>Desain</td>
-                                        <td>
-                                            <li>Inovatif</li>
-                                            <li>Konsistensi tata letak, font, Bahasa, dan warnayang
-                                                digunakan.</li>
-                                            <li>Kesesuaian desain berdasarkan prinsip UI/UX.</li>
-                                            <li>Desain realistis dan mampu diimplementasikan
-                                                pada teknologi yang akan digunakan.
-                                            </li>
-                                        </td>
-                                        <td>
-                                            40
-                                        </td>
+                                      <td>2. </td>
+                                      <td>
+                                        Desain
+                                      </td>
+                                      <td>
+                                        - Inovatif <br>
+                                        - Konsistensi tata letak, font, bahasa, dan warna yang
+                                        digunakan. <br>
+                                        - Kesesuaian desain berdasarkan prinsip UI/UX. <br>
+                                        - Desain realistis dan mampu diimplementasikan pada
+                                        teknologi yang akan digunakan. <br></td>
+                                      <td>
+                                        40
+                                      </td>
                                     </tr>
                                     <tr>
-                                        <td>Presentasi</td>
-                                        <td>
-                                            <li>Cara menjelaskan karya di depan dewan juri</li>
-                                            <li>Estetika power point apakah menarik atau tidak.</li>
-                                        </td>
-                                        <td>
-                                            20
-                                        </td>
+                                      <td>3. </td>
+                                      <td>
+                                        Presentasi
+                                      </td>
+                                      <td>
+                                        - Cara menjelaskan karya di depan dewan juri <br>
+                                        - Estetika power point apakah menarik atau tidak.
+                                      </td>
+                                      <td>
+                                        20
+                                      </td>
                                     </tr>
                                     <tr>
-                                      <td>Tanya jawab</td>
-                                      <td><li>Dapat menjawab pertanyaan dengan baik</li></td>
-                                      <td>10</td>
+                                      <td>4. </td>
+                                      <td>Tanya Jawab </td>
+                                      <td>- Dapat menjawab pertanyaan dengan baik </td>
+                                      <td>
+                                        10
+                                      </td>
                                     </tr>
                                     <tr>
                                       <td></td>
-                                      <td><b><center>TOTAL</center></b></td>
+                                      <td><strong>Total</strong></td>
+                                      <td></td>
                                       <td>100</td>
                                     </tr>
                                   </tbody>
                                 </table>
                               </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -402,24 +391,28 @@
                     </div>
                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                         <div class="card-body">
-                            <p><b>Total hadiah untuk kompetisi senilai jutaan rupiah, bagi pemenang (Juara I,
-                                II,III) diberikan penghargaan berupa sertifikat dan dana pembinaan, sesuai
-                                dengan peringkatjuara :</b>
+                            <p>
+                                <span>Total hadiah untuk kompetisi senilai jutaan rupiah, bagi pemenang (Juara I, II, III)
+                                    diberikan penghargaan berupa sertifikat dan dana pembinaan, sesuai dengan peringkat
+                                    juara :
+                                </span>
+                                <li>
+                                    <ol>
+                                        Juara 1 : Rp 750.000,00 + sertifikat
+                                    </ol>
+                                    <ol>
+                                        Juara 2 : Rp 500.000,00 + sertifikat
+                                    </ol>
+                                    <ol>
+                                        Juara 3 : Rp 300.000,00 + sertifikat
+                                    </ol>
+                                </li>
                             </p>
-                            <li>
-                                Juara I : Rp. 750.000 + Sertifikat
-                            </li>
-                            <li>
-                                Juara II : Rp. 500.000 + Sertifikat
-                            </li>
-                            <li>
-                                Juara III : Rp. 300.000 + Sertifikat
-                            </li>
-                            <p><b>Seluruh peserta yang berpartisipasi dalam lomba akan mendapatkan sertifikat</b></p>
                         </div>
                     </div>
                 </div>
             </div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-ui.index')}}" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

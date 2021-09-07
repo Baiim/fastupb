@@ -39,7 +39,7 @@
                         </div>
                         <div class="unit-body">
                           <h5 class="text-spacing-100"><span class="big">
-                              <time datetime="2019-01-05">September, 4 - 5, 2021</time></span></h5>
+                              <time datetime="2019-01-05">11 September - 17 Oktober 2021</time></span></h5>
                         </div>
                       </div>
                     </li>
@@ -87,7 +87,7 @@
               </div>
               <div class="col-lg-7 text-lg-right">
                 <!-- Countdown rectangle-->
-                <div class="countdown countdown-classic" data-countdown="data-countdown" data-to="2021-10-04">
+                <div class="countdown countdown-classic" data-countdown="data-countdown" data-to="2021-9-11">
                   <div class="countdown-block wow fadeScale countdown-block-days" data-wow-delay="0s">
                     <div class="countdown-wrap">
                       <div class="countdown-title">Hari</div>
@@ -137,8 +137,7 @@
                       </div>
                       <div class="unit-body">
                         <h5>Lokasi</h5>
-                        <p>Kampus Universitas Pelita Bangsa</p>
-                        <p>Gedung Dinas Pariwisata Kabupaten Bekasi</p>
+                        <p>Universitas Pelita Bangsa</p>
                       </div>
                     </div>
                   </li>
@@ -152,7 +151,7 @@
                       <div class="unit-body">
                         <h5>Tanggal/waktu</h5>
                         <p>
-                          <time datetime="2019-01-05">September 4 to 5, 2021</time>
+                          <time datetime="2019-01-05">11 September - 17 Oktober 2021</time>
                         </p>
                       </div>
                     </div>
@@ -177,5 +176,4 @@
         <div class="divider divider-gray-500 text-center"></div>
 
         <!-- Divider-->
-
 @endsection

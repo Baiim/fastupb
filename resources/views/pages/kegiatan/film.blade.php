@@ -91,29 +91,42 @@
                                       <tr>
                                         <th>Kegiatan</th>
                                         <th>Tanggal</th>
+                                        <th>Lokasi</th>
                                       </tr>
                                     </thead>
                                     <tbody>
                                       <tr>
-                                        <td>Pendaftaran dan Pengumpulan Karya</td>
-                                        <td>Senin, 1 Agustus 2021 – Selasa, 30 Agustus
-                                            2021</td>
+                                        <td>Pendaftaran</td>
+                                        <td>11 September – 03
+                                            Oktober 2021
+                                        </td>
+                                        <td>-</td>
                                       </tr>
                                       <tr>
-                                        <td>Pengumuman Tahap 1 </td>
-                                        <td>Senin, 31 Agustus 2021</td>
+                                        <td>Submit </td>
+                                        <td>11 September – 03
+                                            Oktober 2021
+                                        </td>
+                                        <td>Online</td>
                                       </tr>
                                       <tr>
                                         <td>Technical Meeting </td>
-                                        <td>Sabtu, 3 September 2021</td>
+                                        <td> 11 September – 03
+                                            Oktober 2021
+                                        </td>
+                                        <td>Grup Whatsapp / Guide
+                                            Book
+                                        </td>
                                       </tr>
                                       <tr>
                                         <td>Presentasi Karya (penjurian)</td>
-                                        <td>Sabtu, 4 September 2021</td>
+                                        <td>10 Oktober 2021 </td>
+                                        <td>Google Meet / Zoom </td>
                                       </tr>
                                       <tr>
                                         <td>Pengumuman Lomba</td>
-                                        <td>Minggu, 5 September 2021</td>
+                                        <td>17 Oktober 2021 </td>
+                                        <td>Auditorium Universitas Pelita Bangsa</td>
                                       </tr>
                                     </tbody>
                                   </table>
@@ -273,29 +286,19 @@
                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                                <li>
-                                    Sertifikat .
-                                </li>
-                                <li>
-                                    Piala .
-                                </li>
-                                <li>
-                                    Uang juara -->
-                                    <ol>
-                                        Juara 1 : Rp 700.000,00
-                                    </ol>
-                                    <ol>
-                                        Juara 2 : Rp 550.000,00
-                                    </ol>
-                                    <ol>
-                                        Juara 3 : Rp 450.000,00
-                                    </ol>
-                                </li>
+                                1. Sertifikat.  <br>
+                                2. Piala <br>
+                                3. Uang pembinaan pemenang : <br>
+                                • Film terbaik : Rp 600.000,00 <br>
+                                • Film terfavorit : Rp 500.000,00 <br>
+                                • Director terbaik : Rp 300.000,00 <br>
+                                • Cinematography terbaik : Rp 300.000,00
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-film.index')}}" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

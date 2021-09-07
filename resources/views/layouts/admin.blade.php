@@ -24,8 +24,11 @@
         {{-- Sidebar --}}
         @include('includes.admin.sidebar')
 
+
+
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
+            @include('includes.admin.navbar')
 
             <!-- Main Content -->
             <div id="content">
@@ -66,6 +69,7 @@
 
     {{-- Scrpit --}}
     @include('includes.admin.script')
+    @stack('custom')
 </body>
 
 </html>

@@ -30,7 +30,7 @@
             {{-- Section Lomba --}}
             @include('includes.lomba')
             <!-- Section Who Is Speaking-->
-            @include('includes.guest')
+            {{-- @include('includes.guest') --}}
             <!-- Section Conference Schedule-->
             @include('includes.jadwal')
             <!-- Section Official Sponsors-->

@@ -1,15 +1,14 @@
       <section class="section section-lg bg-gray-900">
         <div class="container">
           <div class="row row-30">
-            <div class="col-xs-10 col-lg-4 align-self-center"><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="images/logo/logo-fast.png" srcset="images/logo/logo-fast.png" alt="Voelas"/><img class="brand-logo-light" src="images/logo/logo-fast.png" srcset="images/logo/logo-fast.png" alt="FAST"/></a></div>
+            <div class="col-xs-10 col-lg-4 align-self-center"><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="/images/logo/logo-fast.png" srcset="/images/logo/logo-fast.png" alt="Voelas"/><img class="brand-logo-light" src="/images/logo/logo-fast.png" srcset="/images/logo/logo-fast.png" alt="FAST"/></a></div>
             <div class="col-xs-10 col-sm-6 col-lg-4">
               <h5><span class="big font-weight-sbold">Event detail</span></h5>
               <div class="event-detail">
                 <p class="event-detail-time big">
-                  <time data-splitting datetime="2019-01-05">September, 4 - 5, 2021</time>
+                  <time data-splitting datetime="2019-01-05">11 September - 17 Oktober 2021</time>
                 </p>
-                <p class="event-detail-address big" data-splitting>Kampus Universitas Pelita Bangsa, Jl. Inspeksi Kalimalang No.9, Cibatu, Cikarang Sel., Bekasi, Jawa Barat 17530 </p> <span><a class="event-detail-link" href="https://goo.gl/maps/59zpZ4sWrg5N4WmLA" target="_blank">Lihat di MAP</a></span> <br>
-                <p class="event-detail-address big" data-splitting>Gedung Dinas Pariwisata Kabupaten Bekasi, Sertajaya, Kec. Cikarang Tim., Bekasi, Jawa Barat 17530</p><span><a class="event-detail-link" href="https://goo.gl/maps/rGp3TrTGfr72jijC7" target="_blank">Lihat di MAP</a></span>
+                <p class="event-detail-address big" data-splitting>Universitas Pelita Bangsa, Jl. Inspeksi Kalimalang No.9, Cibatu, Cikarang Sel., Bekasi, Jawa Barat 17530 </p> <span><a class="event-detail-link" href="https://goo.gl/maps/59zpZ4sWrg5N4WmLA" target="_blank">Lihat di MAP</a></span> <br>
 
               </div>
             </div>
