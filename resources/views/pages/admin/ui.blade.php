@@ -81,6 +81,17 @@
             ajax: {
                 url: '{!! url()->current() !!}',
             },
+            buttons: [
+        {
+            extend: 'pdf',
+            text: 'Save current page',
+            exportOptions: {
+                modifier: {
+                    page: 'current'
+                }
+            }
+        }
+
             columns: [
                 { data: 'tim', name: 'tim' },
                 { data: 'name', name: 'name' },

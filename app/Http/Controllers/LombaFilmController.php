@@ -46,7 +46,7 @@ class LombaFilmController extends Controller
                 </div>';
                     })
                     ->editColumn('ktm', function ($item) {
-                        return $item->photo ? '<img src="' . Storage::url($item->photo) . '" style="max-height: 60px;"/>' : '';
+                        return $item->photo ? '<img src="' . Storage::url($item->ktm) . '" style="max-height: 60px;"/>' : '';
                     })
                     ->editColumn('photo', function ($item) {
                         return $item->photo ? '<img src="' . Storage::url($item->photo) . '" style="max-height: 60px;"/>' : '';

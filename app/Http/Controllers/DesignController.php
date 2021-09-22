@@ -36,8 +36,8 @@ class DesignController extends Controller
     public function store(Request $request)
     {
         $data = $request->all();
-        $data['photo'] = $request->file('photo')->store('assets/buktitf1', 'public');
-        $data['ktm'] = $request->file('photo')->store('assets/ktm1', 'public');
+        $data['photo'] = $request->file('photo')->store('assets/buktitf', 'public');
+        $data['ktm'] = $request->file('ktm')->store('assets/ktm', 'public');
 
         Design::create($data);
 

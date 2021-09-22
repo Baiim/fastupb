@@ -8,7 +8,7 @@
             <div class="container">
               <div class="row justify-content-lg-center">
                 <div class="col-lg-10">
-                  <div class="badge-promo wow fadeScale" data-wow-delay=".6s"><span class="badge-promo-text">Segera Diadakan !</span>
+                  <div class="badge-promo wow fadeScale" data-wow-delay=".6s"><span class="badge-promo-text">Sedang Berlangsung</span>
                     <svg class="badge-promo-icon" width="319" height="49" viewBox="0 0 319 49" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H319L299 25L319 49H0L20 25L0 0Z" fill="url( #svg-gradient-primary )"></path>
                       <path opacity="0.08" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H319L299 25L319 49L0 0Z" fill="white"></path>
@@ -77,7 +77,7 @@
           </div>
         </section>
       <!-- Section Book Your Ticket-->
-    <section class="parallax-container section" data-parallax-img="images/bg-parallax-01-1894x1200.jpg" >
+    {{-- <section class="parallax-container section" data-parallax-img="images/bg-parallax-01-1894x1200.jpg" >
         <div class="parallax-content section-lg context-dark text-center text-lg-left parallax-overlay-gradient-primary">
           <div class="container">
             <div class="row row-30 align-items-center">
@@ -117,7 +117,7 @@
             </div>
           </div>
         </div>
-    </section>
+    </section> --}}
         <!-- Section Biggest 2019 Digital Conference-->
     <section class="section section-lg bg-default wow fadeIn" id="about">
           <div class="container">
@@ -161,11 +161,11 @@
                 <!-- Image Box-->
                 <div class="images-box">
                   <div class="images-box-item images-box-item-right">
-                    <div class="wow fadeScale"><img src="images/home-1-01-470x590.jpg" alt="" width="470" height="590"/>
+                    <div class="wow fadeScale"><img src="images/logo/fast.png" alt="" width="470" height="590"/>
                     </div>
                   </div>
                   <div class="images-box-item images-box-item-left">
-                    <div class="wow fadeScale"><img src="images/home-1-02-270x257.jpg" alt="" width="270" height="257"/>
+                    {{-- <div class="wow fadeScale"><img src="images/logo/fast.png" alt="" width="270" height="257"/> --}}
                     </div>
                   </div>
                 </div>

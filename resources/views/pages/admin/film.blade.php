@@ -81,6 +81,12 @@
             ajax: {
                 url: '{!! url()->current() !!}',
             },
+            {
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ]
+    },
             columns: [
                 { data: 'tim', name: 'tim' },
                 { data: 'name', name: 'name' },

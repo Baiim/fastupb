@@ -19,18 +19,21 @@
             <div class="col-md-10 col-lg-6">
               <h6>UI/Ux Design Competition</h6>
               <h4>“With UI/UX The Future Of Nation” <br> Festival Ajang Sinergisitas Teknologi Universitas Pelita Bangsas</h4>
-              <p class="paragraph-inset-right-25"><b>Internet of Things (IoT)</b> adalah sebuah konsep dimana sebuah objek tertentu
-                memiliki kemampuan untuk mengirimkan data lewat melalui jaringan dan tanpa
-                adanya interaksi dari manusia ke manusia ataupun dari manusia ke perangkat
-                komputer. IoT bekerja dengan memanfaatkan suatu argumentasi pemrograman,
-                dimana tiap-tiap perintah argumen tersebut bisa menghasilkan suatu interaksi antar
-                mesin yang telah terhubung secara otomatis tanpa campur tangan manusia dan tanpa
-                terbatas jarak berapapun jauhnya. Internet di sini menjadi penghubung antara kedua
-                interaksi mesin tersebut. Manusia dalam IoT tugasnya hanyalah menjadi pengatur dan
-                pengawas dari mesin-mesin yang bekerja secara langsung tersebut. Adapun tantangan
-                terbesar yang bisa menjadi hambatan dalam mengkonfigurasi IoT adalah bagaimana
-                menyusun jaringan komunikasinya sendiri. Di tuangkan menjadi sebuah prototypenya
-                saja.</p>
+              <p class="paragraph-inset-right-25">UI/UX Design Competition ini ditujukan bagi mahasiswa aktif program Teknik
+                Informatika atau Sistem Informasi dari berbagai Universitas, Sekolah Tinggi,
+                Politeknik sederajat yang ingin menunjukkan bakat dan mengembangkan
+                kreatifitasnya dalam bidang design user interface. Kompetisi ini akan
+                diselenggarakan secara online dan dapat dilakukan secara individu ataupun
+                kelompok yang terdiri dari 1-3 anggota. Dalam kompetisi ini, peserta akan diminta
+                untuk menyusun sebuah proposal yang akan membahas mengenai design interface
+                yang telah dirancang yang kemudian akan dikumpulkan kepada panitia kompetisi.
+                Setelah pengumpulan, dilanjutkan dengan adanya penyaringan seleksi, lalu bagi
+                peserta yang lolos seleksi akan melakukan presentasi mengenai desain yang telah
+                dirancang oleh peserta. Ketika presentasi desain yang dilaksanakan oleh peserta,
+                maka akan dilakukan penilaian presentasi desain secara langsung oleh juri yang
+                bersangkutan, dengan ketentuan penilaian yang sudah di tentukan oleh panitia dan
+                penilaian termasuk mutlak adanya, sehingga hasil nilai tidak bisa di ganggu gugat
+                atau bersifat mutlak. </p>
                 <h4>INFORMASI</h4>
                 <br>
                 <div>
@@ -85,7 +88,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Link template proposal karya dan surat pernyataan orisinalitas
-                                    karya : <a href="">Link Upload Karya</a>
+                                    karya : <a href="">Link Template Proposal</a>
                                 </h5>
                               </div>
                             </div>
@@ -105,7 +108,7 @@
                               <div class="unit-body">
                                 <h5>Untuk informasi lebih lanjut, silahkan hubungi contact <br>
                                     person : Dezia : 0896-3114-9187 <br>
-                                    Risma : 0823-5906-891
+                                    Tiani :  0812-9141-3071
                                 </h5>
                               </div>
                             </div>

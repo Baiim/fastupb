@@ -81,10 +81,10 @@
                             <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">2. SASARAN </button>
                         </h2>
                     </div>
-                    <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                                Mahasiswa Universitas Pelita Bangsa Prodi Teknik Informatika.
+                                1. Mahasiswa Universitas Pelita Bangsa Prodi Teknik Informatika.
                             </p>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                                   <tbody>
                                     <tr>
                                       <td>1. </td>
-                                      <td> 17 Oktober
+                                      <td>  Oktober
                                         2021
                                       </td>
                                       <td>
@@ -154,8 +154,45 @@
                                         12.00 WIB
                                       </td>
                                       <td>
-                                        Seminar
-                                        Nasional
+                                        WORKSHOP JARINGAN DAN PROGRAMMING
+                                      </td>
+                                      <td>
+                                        Ruang Kelas Universitas Pelita
+                                        Bangsa
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </div>
+                        </div>
+                    </div>
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <div class="table-custom-responsive">
+                                <table
+                                  class="table-custom table-custom-striped table-custom-primary"
+                                >
+                                  <thead>
+                                    <tr>
+                                      <th>No. </th>
+                                      <th>Tanggal</th>
+                                      <th>Pukul</th>
+                                      <th>Kegiatan</th>
+                                      <th>Lokasi</th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    <tr>
+                                      <td>1. </td>
+                                      <td>  Oktober
+                                        2021
+                                      </td>
+                                      <td>
+                                        09.00 -
+                                        12.00 WIB
+                                      </td>
+                                      <td>
+                                        WORKSHOP JARINGAN DAN PROGRAMMING
                                       </td>
                                       <td>
                                         Ruang Kelas Universitas Pelita
@@ -168,8 +205,42 @@
                         </div>
                     </div>
                 </div>
+                <div class="card">
+                    <div class="card-header" id="headingSix">
+                        <h2 class="mb-0">
+                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">4. SYARAT DAN KETENTUAN </button>
+                        </h2>
+                    </div>
+                    <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <p>
+                                1. Cetak Form Pendaftaran yang sudah di isi untuk validasi saat mengikuti workshop , silahkan download di : <a href="">Download form</a> <br>
+                                2. Peserta hanya bisa memilih salah satu materi , tidak bisa mengikuti keduanya. <br>
+                                3. Mahasiswa teknik Informatika (Slot 40 Peserta umtuk 1 materi) <br>
+                                4. Dresscode memakai Almaater Universita Pelita Bangsa <br>
+                                5. Membawa Laptop Pribadi
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingSeven">
+                        <h2 class="mb-0">
+                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">5. BENEFIT </button>
+                        </h2>
+                    </div>
+                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <p>
+                                1. Ilmu yang bermanfaat <br>
+                                2. E- Sertifikat <br>
+                                3. Souvenir
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-film.index')}}" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-film.index')}}" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

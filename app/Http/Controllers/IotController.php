@@ -36,8 +36,8 @@ class IotController extends Controller
     public function store(Request $request)
     {
         $data = $request->all();
-        $data['photo'] = $request->file('photo')->store('assets/buktitf2', 'public');
-        $data['ktm'] = $request->file('photo')->store('assets/ktm2', 'public');
+        $data['photo'] = $request->file('photo')->store('assets/buktitf', 'public');
+        $data['ktm'] = $request->file('ktm')->store('assets/ktm', 'public');
 
         Iot::create($data);
 

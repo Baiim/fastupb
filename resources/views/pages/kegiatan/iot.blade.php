@@ -67,7 +67,7 @@
                               <div class="unit-body">
                                 <h5>Untuk informasi lebih lanjut, silahkan hubungi contact <br>
                                     person : Dezia : 0896-3114-9187 <br>
-                                    Anggi : 0838-3726-0826
+                                    Risma : 0823-5906-8891
                                 </h5>
                               </div>
                             </div>
@@ -103,7 +103,7 @@
                                     <tbody>
                                       <tr>
                                         <td>Pendaftaran</td>
-                                        <td>11 September – 03
+                                        <td>11 September – 09
                                             Oktober 2021
                                         </td>
                                         <td>-</td>
@@ -117,8 +117,7 @@
                                       </tr>
                                       <tr>
                                         <td>Technical Meeting </td>
-                                        <td> 11 September – 03
-                                            Oktober 2021
+                                        <td>  09 Oktober 2021
                                         </td>
                                         <td>Grup Whatsapp / Guide
                                             Book
@@ -126,7 +125,7 @@
                                       </tr>
                                       <tr>
                                         <td>Presentasi Karya (penjurian)</td>
-                                        <td>10 Oktober 2021 </td>
+                                        <td>16 Oktober 2021 </td>
                                         <td>Google Meet / Zoom </td>
                                       </tr>
                                       <tr>
@@ -159,7 +158,7 @@
                                     Setiap tim harus berasal dari perguruan tinggi yang sama.
                                 </li>
                                 <li>
-                                    SSetiap tim maksimal terdiri 1-3 Anggota
+                                    Setiap tim maksimal terdiri 1-3 Anggota
                                 </li>
                                 <li>
                                     Setiap anggota yang terdaftar hanya boleh bergabung dalam satu tim.
@@ -167,7 +166,7 @@
                                 <li>Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan
                                     oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan
                                     Proposal Karya melalui email himatif@pelitabangsa.ac.id template dapat
-                                    diunduh di ... <a href="#">Link</a>
+                                    diunduh di ... <a href="https://docs.google.com/document/d/1MgGjzxcryCChSnrkUGZJNCYluGQBc5kd/edit">Link Template surat pernyataan</a>
                                 </li>
                                 <li>
                                     Karya harus sesuai dengan tema yaitu “Modern Smart Technology And
@@ -259,7 +258,7 @@
                                 </li>
                                 <li>
                                     Proposal disusun sesuai template proposal yang diberikan. Template
-                                    proposal dapat diunduh di ...
+                                    proposal dapat diunduh di <a href="https://docs.google.com/document/d/1Ivk073NgiQT2It8htKxUQEvmC69VU7zz/edit?usp=sharing&ouid=109932217893365589516&rtpof=true&sd=true">Link template Proposal</a>
                                 </li>
                                 <li>
                                     Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas
@@ -274,14 +273,14 @@
                             <span>2. BABAK FINAL</span>
                             <p>
                                 <li>
-                                    Peserta yang lolos tahap 1 melakukan Technical Meeting yang dilaksanakan
-                                    pada Sabtu, 28 Agustus 2021 yang dilaksanakan secara online melalui
+                                    Peserta yang lolos melakukan Technical Meeting yang dilaksanakan
+                                    pada Sabtu, 09 Oktober 2021 yang dilaksanakan secara online melalui
                                     Google Meet (apabila berhalangan hadir bisa menghubungi panitia pada
                                     contact person yang ada*).
                                 </li>
                                 <li>
-                                    Peserta yang lolos tahap 1 melakukan presentasi karya secara online melalui
-                                    Zoom pada Minggu, 10 Oktober 2021.
+                                    Peserta yang lolos melakukan presentasi karya secara online melalui
+                                    Zoom pada Minggu, 16 Oktober 2021.
                                 </li>
                                 <li>
                                     Peserta berpakaian sopan.

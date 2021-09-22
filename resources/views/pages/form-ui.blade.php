@@ -147,10 +147,10 @@
                 <input type="file" class="form-control item" name="photo" placeholder="Contoh : TI.20.D1" autocomplete="false" required>
                 <small class="mt-4" style="color: #5691ff">* Harap memasukan bukti transfer yang jelas.</small>
             </div>
-            <div class="form-group form-check">
+            {{-- <div class="form-group form-check">
                 <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
                 <label class="form-check-label" for="exampleCheck1">Baca dahulu <a data-toggle="modal" data-target="#terms-txt" href="#">Syarat dan Ketentuan lomba</a></label>
-            </div>
+            </div> --}}
             <div class="form-group">
                 <button type="submit" class="btn btn-block create-account">Daftar Sekarang</button>
             </div>
@@ -185,3 +185,5 @@
 <script>
     $("#terms-txt").modal()
 </script>
+
+<a href=""></a>
