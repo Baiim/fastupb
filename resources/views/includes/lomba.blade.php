@@ -23,7 +23,7 @@
                       <!-- Sponsor--><a class="sponsor" href="{{route('lomba-film')}}" data-triangle=".sponsor-overlay">
                         <div class="sponsor-overlay"></div>
                         <div class="sponsor-img"><img src="images/lomba/new/film.png" alt="" width="117" height="70"/> <br>
-                        <span>Film Pendek Mahasiswa</span>
+                        <span>Film Pendek Mahasiswa UPB</span>
                         </div></a>
                     </div>
                   </div>

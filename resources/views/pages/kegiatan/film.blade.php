@@ -40,8 +40,8 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Untuk informasi lebih lanjut, silahkan hubungi contact <br>
-                                    person : Dezia : 0896-3114-9187 <br>
-                                    Anggi : 0838-3726-0826
+                                    Dezia : 0896-3114-9187 <br>
+                                    Delon : 0812-8530-5395
                                 </h5>
                               </div>
                             </div>
