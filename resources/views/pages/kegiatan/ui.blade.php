@@ -175,40 +175,15 @@
                     </div>
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                         <div class="card-body">
-                            <p> <li>
-                                Peserta adalah mahasiswa aktif program studi Teknik Informatika, Sistem Informasi PTN/PTS S1/Diploma di seluruh Indonesia dibuktikan dengan KTM.
-                                </li>
-                                <li>
-                                    Setiap perguruan tinggi diperbolehkan mengirimkan perwakilan lebih dari 1 tim.
-                                </li>
-                                <li>
-                                    Setiap tim harus berasal dari perguruan tinggi yang sama.
-                                </li>
-                                <li>
-                                    SSetiap tim maksimal terdiri 1-3 Anggota
-                                </li>
-                                <li>
-                                    Setiap anggota yang terdaftar hanya boleh bergabung dalam satu tim.
-                                </li>
-                                <li>
-                                    Setiap tim mengirimkan biaya registrasi Rp. 100.000,-
-                                </li>
-                                <li>Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan
-                                    oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan
-                                    Proposal Karya melalui email himatif@pelitabangsa.ac.id template dapat
-                                    diunduh di ... <a href="https://drive.google.com/drive/folders/1yhTeE1QN1ACbLrtlhIsvsgraC_vo8Xxx">Link</a>
-                                </li>
-                                <li>
-                                    Karya harus sesuai dengan tema yaitu “With UI/UX The Future Of Nation”.
-                                </li>
-                                <li>
-                                    Perubahan anggota tim setelah pendaftaran online dan selama kompetisi tidak
-                                    diperkenankan kecuali ada alasan yang sangat mendesak.
-                                </li>
-                                <li>
-                                    Panitia berhak mendiskualifikasi dan mencabut gelar juara jika ditemukan
-                                    kecurangan atau pelanggaran terhadap karya atau aturan UI/UX Competition.
-                                </li>
+                            <p> • Peserta adalah mahasiswa aktif program studi Teknik Informatika, Sistem Informasi PTN/PTS S1/Diploma di seluruh Indonesia dibuktikan dengan KTM. <br>
+                                • Setiap perguruan tinggi diperbolehkan mengirimkan perwakilan lebih dari 1 tim. <br>
+                                • Setiap tim harus berasal dari perguruan tinggi yang sama. <br>
+                                • Setiap tim maksimal terdiri 1-3 Anggota. <br>
+                                • Setiap anggota yang terdaftar hanya boleh bergabung dalam satu tim. <br>
+                                • Setiap tim mengirimkan biaya registrasi Rp. 100.000,- <br>
+                                • Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan Proposal Karya melalui email himatif.pbti@gmail.com <br>
+                                • Perubahan anggota tim setelah pendaftaran online dan selama kompetisi tidak diperkenankan kecuali ada alasan yang sangat mendesak. <br>
+                                • Panitia berhak mendiskualifikasi dan mencabut gelar juara jika ditemukan kecurangan atau pelanggaran terhadap karya atau aturan UI/UX Design Competition.
                             </p>
                         </div>
                     </div>
@@ -223,23 +198,18 @@
 
                         <div class="card-body">
                             <p>
-                                1. Design UI/UX bermanfaat untuk membangun bisnis yang ada pada masa depan. <br>
-                                2. Tools yang digunakan bebas (seperti : Adobe XD, Figma, DLL). <br>
-                                3. Setiap kelompok hanya diperkenankan mengirimkan satu karya terbaiknya. <br>
-                                4. Karya yang dilombakan merupakan ide orisinil dan tidak mengandung unsur
-                                SARA, pornografi dan tidak bertentangan dengan norma yang berlaku. <br>
-                                5. Karya UI/UX berbasis web. <br>
-                                6. Karya harus sesuai dengan tema yaitu “With UI/UX The Future Of Nation”. <br>
-                                7. Karya yang dikirimkan tidak sedang atau belum pernah memenangi penghargaan
-                                dilomba manapun. <br>
-                                8. Hak dari karya peserta pada kompetisi Design UI/UX akan tetap menjadi hak dari
-                                peserta. <br>
-                                9. Ketentuan penilaian : <br>
-                                10. Penilaian dilakukan oleh dewan juri yang ditetapkan oleh panitia. <br>
-                                11. Karya yang diterima adalah karya yang dikirimkan sesuai dengan tema dan batas
-                                waktu yang telah ditentukan. <br>
-                                12. Pemenang kompetisi merupakan peserta yang memiliki nilai tertinggi dari semua
-                                aspek penilaian yang ditetapkan oleh panitia dan dewan juri.  <br>
+                                • Design UI/UX bermanfaat untuk membangun bisnis yang ada pada masa depan. <br>
+                                • Tools yang digunakan bebas (seperti : Adobe XD, Figma, DLL). <br>
+                                • Setiap kelompok hanya diperkenankan mengirimkan satu karya terbaiknya. <br>
+                                • Karya yang dilombakan merupakan ide orisinil dan tidak mengandung unsur SARA, pornografi dan tidak bertentangan dengan norma yang berlaku. <br>
+                                • Karya UI/UX berbasis web. <br>
+                                • Karya harus sesuai dengan tema yaitu “With UI/UX The Future Of Nation”. <br>
+                                • Karya yang dikirimkan tidak sedang atau belum pernah memenangi penghargaan  dilomba manapun. <br>
+                                • Hak dari karya peserta pada kompetisi Design UI/UX akan tetap menjadi hak dari  peserta. <br>
+                                • Ketentuan penilaian :  <br>
+                                - Penilaian dilakukan oleh dewan juri yang ditetapkan oleh panitia.  <br>
+                                - Karya yang diterima adalah karya yang dikirimkan sesuai dengan tema dan batas waktu yang telah ditentukan. <br>
+                                - Pemenang kompetisi merupakan peserta yang memiliki nilai tertinggi dari semua aspek penilaian yang ditetapkan oleh panitia dan dewan juri.
                             </p>
                         </div>
                     </div>
