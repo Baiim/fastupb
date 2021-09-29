@@ -132,7 +132,6 @@
                             <p>
                                 1. Pendaftaran dimulai tanggal 14 September – 20 Oktober 2021 pukul 23.59 WIB <br>
                                 2. Peserta menyiapkan data diri berupa : <br>
-                                - Scan Kartu Tanda Mahasiswa (KTM) / KRS ( Kartu Rencana Studi ) untuk kategori Mahasiswa UPB, dibuat dengan format .pdf dan diberi nama file KTM_*Nama ketua tim*_*Kelas* ( Contoh : KTM_Delon Maradelon_TI.20.A.1 ) <br>
                                 - Kartu Tanda Penduduk (KTP) untuk kategori Umum, dibuat dengan format .pdf dan diberi nama file KTP_*Nama ketua tim*_*Nama_Tim/PH* ( Contoh : KTP_Delon Maradelon_Garuda Films )
                             </p>
                         </div>
