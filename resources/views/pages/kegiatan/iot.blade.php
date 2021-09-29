@@ -172,8 +172,8 @@
                                 </li>
                                 <li>Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan
                                     oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan
-                                    Proposal Karya melalui email himatif@pelitabangsa.ac.id template dapat
-                                    diunduh di ... <a href="https://docs.google.com/document/d/1MgGjzxcryCChSnrkUGZJNCYluGQBc5kd/edit">Link Template surat pernyataan</a>
+                                    Proposal Karya melalui email himatif.pbti@gmail.com template dapat
+                                    diunduh di ... <a href="https://drive.google.com/drive/folders/1IyRw5Nsc4VD0mNiEWivD_E0kUxb2pf88?usp=sharing">Link Template surat pernyataan</a>
                                 </li>
                                 <li>
                                     Karya harus sesuai dengan tema yaitu “Modern Smart Technology And
@@ -265,16 +265,16 @@
                                 </li>
                                 <li>
                                     Proposal disusun sesuai template proposal yang diberikan. Template
-                                    proposal dapat diunduh di <a href="https://docs.google.com/document/d/1Ivk073NgiQT2It8htKxUQEvmC69VU7zz/edit?usp=sharing&ouid=109932217893365589516&rtpof=true&sd=true">Link template Proposal</a>
+                                    proposal dapat diunduh di <a href="https://drive.google.com/drive/folders/1IyRw5Nsc4VD0mNiEWivD_E0kUxb2pf88?usp=sharing">Link template Proposal</a>
                                 </li>
                                 <li>
                                     Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas
-                                    Karya ke email himatif@pelitabangsa.ac.id dengan nama file PROPOSAL
-                                    KARYA_JUDUL pada tanggal paling lambat Selasa, 3 Oktober 2021.
+                                    Karya ke email himatif.pbti@gmail.com dengan nama file PROPOSAL
+                                    KARYA_JUDUL pada tanggal paling lambat Selasa, 19 Oktober 2021.
                                 </li>
                                 <li>
-                                    Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada Senin, 23
-                                    Agustus 2021.
+                                    Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada tanggal, 23
+                                    Oktober 2021.
                                 </li>
                             </p>
                             <span>2. BABAK FINAL</span>
@@ -287,7 +287,7 @@
                                 </li>
                                 <li>
                                     Peserta yang lolos melakukan presentasi karya secara online melalui
-                                    Zoom pada Minggu, 16 Oktober 2021.
+                                    Zoom pada tanggal, 31 Oktober 2021.
                                 </li>
                                 <li>
                                     Peserta berpakaian sopan.
@@ -304,7 +304,7 @@
                                     Technical Meeting.
                                 </li>
                                 <li>
-                                    Pemenang akan diumumkan pada Minggu, 17 Oktober 2021.
+                                    Pemenang akan diumumkan pada tanggal, 31 Oktober 2021.
                                 </li>
                             </p>
                         </div>
