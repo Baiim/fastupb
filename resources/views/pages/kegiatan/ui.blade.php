@@ -69,26 +69,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Proposal Karya dan Surat Pernyataan Orisinilitas Karya dapat
-                                    dikirimkanbersamaan melalui email himatif.pbti@gmail.com
-                                </h5>
-                              </div>
-                            </div>
-                          </li>
-                    </ul>
-                    <ul class="list list-md">
-                        <li>
-                            <div class="unit">
-                              <div class="unit-left">
-                                <div class="icon-rect icon-rect-secodanry" data-triangle=".icon-rect-overlay">
-                                  <div class="icon-rect-overlay"></div>
-                                  <svg class="svg-icon-sm-1" role="img">
-                                    <use xlink:href="images/svg/sprite.svg#tick"></use>
-                                  </svg>
-                                </div>
-                              </div>
-                              <div class="unit-body">
-                                <h5>Link template proposal karya dan surat pernyataan orisinalitas
-                                    karya : <a href="https://drive.google.com/drive/folders/1yhTeE1QN1ACbLrtlhIsvsgraC_vo8Xxx">Link Template Proposal</a>
+                                    dikirimkan bersamaan melalui email himatif.pbti@gmail.com
                                 </h5>
                               </div>
                             </div>
@@ -273,34 +254,20 @@
                         <div class="card-body">
                             <span>1. BABAK PENYISIHAN</span>
                             <p>
-                                • Peserta telah mengikuti prosedur pendaftaran pada link dan melengkapi data
-                                pendaftaran dengan benar. <br>
+                                • Peserta telah mengikuti prosedur pendaftaran pada link dan melengkapi data pendaftaran dengan benar. <br>
                                 • Proposal karya merupakan ide orisinil. <br>
-                                • Proposal mengacu dan memiliki relevansi dengan tema yang telah
-                                ditentukan. <br>
-                                • Proposal disusun sesuai template proposal yang diberikan. Template
-                                proposal dapat diunduh di ... <br>
-                                • Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas
-                                Karya ke email himatif@pelitabangsa.ac.id dengan nama file PROPOSAL
-                                KARYA_JUDUL pada tanggal paling lambat tanggal, 19 Oktober 2021. <br>
-                                • Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada Senin, 23
-                                Agustus 2021. <br>
+                                • Proposal mengacu dan memiliki relevansi dengan tema yang telah ditentukan. <br>
+                                • Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas Karya ke email himatif.pbti@gmail.com dengan nama file PROPOSAL KARYA_JUDUL pada tanggal paling lambat Selasa, 19 Oktober 2021. <br>
+                                • Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada Sabtu, 23 Oktober 2021.
                             </p>
                             <span>2. BABAK FINAL</span>
                             <p>
-                                • Peserta yang lolos tahap 1 melakukan Technical Meeting yang dilaksanakan
-                                pada, 24 Agustus 2021 yang dilaksanakan secara online melalui
-                                Google Meet (apabila berhalangan hadir bisa menghubungi panitia pada
-                                contact person yang ada*). <br>
-                                • Peserta yang lolos tahap 1 melakukan presentasi karya secara online melalui
-                                Zoom pada Minggu, 31 Oktober 2021. <br>
+                                • Peserta yang lolos tahap 1 melakukan Technical Meeting yang dilaksanakan pada Jum’at, 24 Oktober 2021 yang dilaksanakan secara online melalui Grup Whatsapp / Guide Book. <br>
+                                • Peserta yang lolos tahap 1 melakukan presentasi karya secara online melalui Zoom / Google Meet pada Minggu, 31 Oktober 2021. <br>
                                 • Peserta berpakaian sopan. <br>
-                                • Cakupan presentasi adalah penjelasan mengenai karya dan desain karya di
-                                depan dewan juri. <br>
-                                • Waktu total presentasi adalah 25 menit, dengan rincian 10 menit untuk
-                                presentasi dan 15 menit untuk tanya jawab. <br>
-                                • Penjelasan lebih lanjut mengenai teknis pelaksanaannya akan dijelaskan saat
-                                Technical Meeting. <br>
+                                • Cakupan presentasi adalah penjelasan mengenai karya dan desain karya di depan dewan juri. <br>
+                                • Waktu total presentasi adalah 25 menit, dengan rincian 10 menit untuk presentasi dan 15 menit untuk tanya jawab.  <br>
+                                • Penjelasan lebih lanjut mengenai teknis pelaksanaannya akan dijelaskan saat Technical Meeting. <br>
                                 • Pemenang akan diumumkan pada Minggu, 31 Oktober 2021.
                             </p>
                         </div>

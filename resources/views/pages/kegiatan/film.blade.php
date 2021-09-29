@@ -193,7 +193,7 @@
                     </div>
                 </div>
             </div>
-            <a class="button button-primary button-round-1 wow fadeScale" href="https://docs.google.com/forms/d/1_56pwaGnVm-jF9mX26oO1JmBTY6KqsLP2nS4FGUZTTQ/prefill" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran Ulang</span><span class="button-overlay"></span></a></div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="https://forms.gle/gEYsg6tRMRGZSpyJ9" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran Ulang</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

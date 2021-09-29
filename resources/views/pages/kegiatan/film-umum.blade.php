@@ -190,7 +190,7 @@
                 </div>
             </div>
             <div>
-                <a class="button button-primary button-round-1 wow fadeScale" href="https://docs.google.com/forms/d/1S1IB314HkRtl2sHqJDfUbXVnU3DmZhroO8WeUmepL5s/prefill" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran Lomba</span><span></span></a></div>
+                <a class="button button-primary button-round-1 wow fadeScale" href="https://forms.gle/BAtd2FxuL4rMVZK29" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran Lomba</span><span></span></a></div>
             </div>
           </div>
         </div>
