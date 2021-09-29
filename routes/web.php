@@ -64,6 +64,8 @@ Route::group(['middleware' => 'auth'], function () {
 // Route for Kegiatan
 Route::get('/lomba-film', [HomeController::class, 'film'])
 ->name('lomba-film');
+Route::get('/lomba-film-umum', [HomeController::class, 'filmUmum'])
+->name('lomba-film-umum');
 Route::get('/lomba-iot', [HomeController::class, 'iot'])
 ->name('iot');
 Route::get('/lomba-ui&ux', [HomeController::class, 'ui'])

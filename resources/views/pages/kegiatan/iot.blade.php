@@ -47,7 +47,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Nomor urutan presentasi pada babak final akan diumumkan lebih
-                                    lanjut olehpanitia saat technical meeting
+                                    lanjut oleh panitia saat technical meeting
                                 </h5>
                               </div>
                             </div>
@@ -66,8 +66,9 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Untuk informasi lebih lanjut, silahkan hubungi contact <br>
-                                    person : Dezia : 0896-3114-9187 <br>
-                                    Risma : 0823-5906-8891
+                                    Risma : 0823-5906-8891 <br>
+                                    Dezia : 0896-3114-9187
+
                                 </h5>
                               </div>
                             </div>
@@ -126,8 +127,7 @@
                                         <td>Technical Meeting </td>
                                         <td> 24 Oktober 2021
                                         </td>
-                                        <td>Grup Whatsapp / Guide
-                                            Book
+                                        <td>Grup Whatsapp
                                         </td>
                                       </tr>
                                       <tr>
@@ -281,7 +281,7 @@
                             <p>
                                 <li>
                                     Peserta yang lolos melakukan Technical Meeting yang dilaksanakan
-                                    pada Sabtu, 09 Oktober 2021 yang dilaksanakan secara online melalui
+                                    pada Sabtu, 24 Oktober 2021 yang dilaksanakan secara online melalui
                                     Google Meet (apabila berhalangan hadir bisa menghubungi panitia pada
                                     contact person yang ada*).
                                 </li>

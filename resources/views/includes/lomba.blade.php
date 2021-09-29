@@ -9,7 +9,7 @@
                 <div class="col-sm-5 col-lg-3">
                     <div class="wow">
                       <div class="card">
-                        <!-- Sponsor--><a class="sponsor" href="{{route('lomba-film')}}" data-triangle=".sponsor-overlay">
+                        <!-- Sponsor--><a class="sponsor" href="{{route('lomba-film-umum')}}" data-triangle=".sponsor-overlay">
                           <div class="sponsor-overlay"></div>
                           <div class="sponsor-img"><img src="images/lomba/new/film.png" alt="" width="117" height="70"/> <br>
                           <span>Film Pendek Umum</span>

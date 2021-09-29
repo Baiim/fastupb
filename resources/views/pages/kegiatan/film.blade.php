@@ -88,7 +88,7 @@
                                 6. Peserta wajib mengirimkan hasil karya dengan melampirkan: <br>
                                 - Film ( .MP4 atau .MOV, FullHD 1920x1080) <br>
                                 - Trailer 58 detik ( .MP4 atau .MOV, FullHD 1920x1080) <br>
-                                7. Setiap karya film wajib mencantumkan Logo Universitas Pelita Bangsa , Logo HIMATIF-Univ. Pelita Bnagsa , dan Logo FAST UPB diawal film atau di akhir film. <br>
+                                7. Setiap karya film mencantumkan Logo Universitas Pelita Bangsa , Logo HIMATIF-UPB , dan Logo FAST UPB diawal film atau di akhir film. dapat di diunduh di <a href="https://drive.google.com/drive/folders/1tTRVIU7zeuE2C82Qr8qloeNC9HpQXkiG" target="_blank">Logo Film Pendek FAST UPB</a> <br>
                                 8. Setiap karya film wajib menampilkan footage universitas Pelita Bangsa <br>
                                 9. Trailer wajib dipublish di Instagram Ketua Tim lalu tag Instagram @himatif_pb dan @fastupb diisertai hastag  #fastupb2021 #himatifupb <br>
                                 10. Film diproduksi tahun 2021 dan belum pernah diikutsertakan pada lomba lain. <br>
@@ -116,11 +116,11 @@
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                                Pendaftaran​​: 06 – 08 September 2021 <br>
-                                Pengumpulan Karya​: 11 September – 10 Oktober 2021 <br>
-                                Penjurian Terbuka​: 12 – 15 Oktober 2021 <br>
-                                Penjurian Tertutup​: 16 Oktober 2021 <br>
-                                Pengumuman​​: 17 Oktober 2021
+                                Pendaftaran​​: 06 September – 08 Oktober 2021 <br>
+                                Pengumpulan Karya​: 11 September – 27 Oktober 2021 <br>
+                                Penjurian Terbuka​: 28 – 30 Oktober 2021 <br>
+                                Penjurian Tertutup​: 31 Oktober 2021 <br>
+                                Pengumuman​​: 31 Oktober 2021
                             </p>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                                1. Panitia hanya akan menilai Video yang memenuhi Syarat dan Ketentuan ini dan dikirimkan sebelum tanggal 15 Oktober 2021 pukul 23:59 WIB. <br>
+                                1. Panitia hanya akan menilai Video yang memenuhi Syarat dan Ketentuan ini dan dikirimkan sebelum tanggal 27 Oktober 2021 pukul 23:59 WIB. <br>
                                 2. Penilaian/penjurian video bersifat terbuka dan tertutup. Penilaian secara terbuka berdasarkan jumlah jumlah like. Sedangkan penilaian secara tertutup berdasarkan orisinalitas, kreativitas, dan kesesuaian dengan tema yang telah ditentukan oleh Panitia. <br>
                                 3. Hasil keputusan Juri bersifat final dan tidak dapat diganggu gugat.
 
@@ -193,7 +193,7 @@
                     </div>
                 </div>
             </div>
-            <a class="button button-primary button-round-1 wow fadeScale" href="https://docs.google.com/forms/d/1DxUtPJ8YZ7HDNOKm0a457i2OCL1i_VPiWmYQz5uJRAA/viewform?edit_requested=true" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="https://docs.google.com/forms/d/1_56pwaGnVm-jF9mX26oO1JmBTY6KqsLP2nS4FGUZTTQ/prefill" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran Ulang</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

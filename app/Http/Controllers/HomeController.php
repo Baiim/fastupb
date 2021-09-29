@@ -94,6 +94,10 @@ class HomeController extends Controller
     {
         return view('pages.kegiatan.film');
     }
+    public function filmUmum()
+    {
+        return view('pages.kegiatan.film-umum');
+    }
     public function cerdas()
     {
         return view('pages.kegiatan.cerdas');
