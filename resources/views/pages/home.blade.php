@@ -51,8 +51,7 @@
             <!-- Thumbnail Video Link-->
             <div>
                 <div class="group">
-                    <a class="button button-secondary button-round-1 wow fadeScale" href="https://twibbon.fastupb.com/" target="_blank" data-triangle=".button-overlay"><span>Buat Twibbon</span><span class="button-overlay"></span></a>
-                    <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form')}}" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
+                    <a class="button button-primary button-round-1 wow fadeScale" href="https://twibbon.fastupb.com/" target="_blank" data-triangle=".button-overlay"><span>Buat Twibbon</span><span class="button-overlay"></span></a></div>
             </div>
             <!-- Thumbnail Video Link-->
           <div class="video-link-wrapper">

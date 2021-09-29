@@ -32,7 +32,7 @@
             <!-- Section Who Is Speaking-->
             {{-- @include('includes.guest') --}}
             <!-- Section Conference Schedule-->
-            @include('includes.jadwal')
+            {{-- @include('includes.jadwal') --}}
             <!-- Section Official Sponsors-->
             @include('includes.sponsor')
         <!-- Swiper Slider Absolute-->

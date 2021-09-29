@@ -1,7 +1,7 @@
       <section class="section section-lg bg-gray-900">
         <div class="container">
           <div class="row row-30">
-            <div class="col-xs-10 col-lg-4 align-self-center"><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="/images/logo/logo-fast.png" srcset="/images/logo/logo-fast.png" alt="Voelas"/><img class="brand-logo-light" src="/images/logo/logo-fast.png" srcset="/images/logo/logo-fast.png" alt="FAST"/></a></div>
+            <div class="col-xs-10 col-lg-4 align-self-center"><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="/images/logo/logo-fast.png" srcset="/images/logo/logo-fast.png"/><img class="brand-logo-light" src="/images/logo/logo-fast.png" srcset="/images/logo/logo-fast.png" alt="FAST"/></a></div>
             <div class="col-xs-10 col-sm-6 col-lg-4">
               <h5><span class="big font-weight-sbold">Event detail</span></h5>
               <div class="event-detail">

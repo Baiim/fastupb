@@ -11,7 +11,7 @@
               <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
               <!--RD Navbar Brand-->
               <div class="rd-navbar-brand">
-                <!--Brand--><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="images/logo/logo-fast.png" srcset="images/logo-svg.svg" alt="Voelas"/><img class="brand-logo-light" src="images/logo/logo-fast.png" srcset="images/logo/logo-fast.png" alt="FAST"/></a>
+                <!--Brand--><a class="brand" width="30px" href="/"><img class="brand-logo-dark"  src="images/logo/logo-fast.png" srcset="images/logo-svg.svg" /><img class="brand-logo-light" src="images/logo/logo-fast.png" srcset="images/logo/logo-fast.png" alt="FAST"/></a>
               </div>
             </div>
             <!-- Rd Navbar Navigation-->
@@ -24,7 +24,6 @@
                   </li>
                   <li class="rd-nav-item"><a class="rd-nav-link" href="#kegiatan">Kegiatan</a>
                   </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#jadwal">Jadwal Kegiatan</a>
                   </li>
                   <li class="rd-nav-item"><a class="rd-nav-link" href="#sponsor">Sponsor dan Media partner</a>
                   </li>
@@ -33,7 +32,7 @@
             </div>
             <!-- RD Navbar Collapse-->
             <div class="rd-navbar-collapse">
-                <div class="rd-navbar-collapse"><a class="button button-primary button-round-1" href="https://api.whatsapp.com/send?phone=628981234567&text=Halo%20kakak%20boleh%20tanya-tanya%20tentang%20FAST-UPB?" target="_blank" data-triangle=".button-overlay"><span><i class="fa fa-whatsapp"></i> &nbsp; Bantuan</span><span class="button-overlay"></span></a>
+                <div class="rd-navbar-collapse"><a class="button button-primary button-round-1" href="https://api.whatsapp.com/send?phone=6289631149187&text=Halo%20kakak%20boleh%20tanya-tanya%20tentang%20FAST-UPB?" target="_blank" data-triangle=".button-overlay"><span><i class="fa fa-whatsapp"></i> &nbsp; Bantuan</span><span class="button-overlay"></span></a>
                 </div>
             </div>
           </div>

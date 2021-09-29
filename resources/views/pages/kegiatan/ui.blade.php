@@ -50,7 +50,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Nomor urutan presentasi pada babak final akan diumumkan lebih
-                                    lanjut olehpanitia saat technical meeting.
+                                    lanjut oleh panitia saat technical meeting.
                                 </h5>
                               </div>
                             </div>
@@ -69,7 +69,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Proposal Karya dan Surat Pernyataan Orisinilitas Karya dapat
-                                    dikirimkanbersamaan melalui email himatif@pelitabangsa.ac.id
+                                    dikirimkanbersamaan melalui email himatif.pbti@gmail.com
                                 </h5>
                               </div>
                             </div>
@@ -107,7 +107,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Untuk informasi lebih lanjut, silahkan hubungi contact <br>
-                                    person : Dezia : 0896-3114-9187 <br>
+                                    Dezia : 0896-3114-9187 <br>
                                     Tiani :  0812-9141-3071
                                 </h5>
                               </div>
@@ -130,55 +130,60 @@
                     </div>
                     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                         <div class="card-body">
-                                <div class="table-custom-responsive">
-                                  <table
-                                    class="table-custom table-custom-striped table-custom-primary"
-                                  >
-                                    <thead>
-                                      <tr>
-                                        <th>Kegiatan</th>
-                                        <th>Tanggal</th>
-                                        <th>Lokasi</th>
-                                      </tr>
-                                    </thead>
-                                    <tbody>
-                                      <tr>
-                                        <td>Pendaftaran</td>
-                                        <td>11 September – 03
-                                            Oktober 2021
-                                        </td>
-                                        <td>-</td>
-                                      </tr>
-                                      <tr>
-                                        <td>Submit </td>
-                                        <td>11 September – 03
-                                            Oktober 2021
-                                        </td>
-                                        <td>Online</td>
-                                      </tr>
-                                      <tr>
-                                        <td>Technical Meeting </td>
-                                        <td> 11 September – 03
-                                            Oktober 2021
-                                        </td>
-                                        <td>Grup Whatsapp / Guide
-                                            Book
-                                        </td>
-                                      </tr>
-                                      <tr>
-                                        <td>Presentasi Karya (penjurian)</td>
-                                        <td>10 Oktober 2021 </td>
-                                        <td>Google Meet / Zoom </td>
-                                      </tr>
-                                      <tr>
-                                        <td>Pengumuman Lomba</td>
-                                        <td>17 Oktober 2021 </td>
-                                        <td>Auditorium Universitas Pelita Bangsa</td>
-                                      </tr>
-                                    </tbody>
-                                  </table>
-                                </div>
-                        </div>
+                            <div class="table-custom-responsive">
+                              <table
+                                class="table-custom table-custom-striped table-custom-primary"
+                              >
+                                <thead>
+                                  <tr>
+                                    <th>Kegiatan</th>
+                                    <th>Tanggal</th>
+                                    <th>Lokasi</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Pendaftaran</td>
+                                    <td>29 September – 20
+                                        Oktober 2021
+                                    </td>
+                                    <td>Online</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Pengumpulan karya + bukti pembayaran </td>
+                                    <td>29 September – 20
+                                        Oktober 2021
+                                    </td>
+                                    <td>Online</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Pengumuman Tahap 1 </td>
+                                    <td> 23 Oktober 2021
+                                    </td>
+                                    <td>Online
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Technical Meeting </td>
+                                    <td> 24 Oktober 2021
+                                    </td>
+                                    <td>Grup Whatsapp
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Presentasi Karya (penjurian)</td>
+                                    <td>31 Oktober 2021 </td>
+                                    <td>Google Meet / Zoom </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Pengumuman Lomba</td>
+                                    <td>31 Oktober 2021 </td>
+                                    <td>Universitas Pelita Bangsa</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                    </div>
                     </div>
                 </div>
                 <div class="card">
@@ -190,8 +195,7 @@
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                         <div class="card-body">
                             <p> <li>
-                                    Peserta adalah mahasiswa aktif program studi Sistem Informasi PTN/PTS
-                                S1/Diploma di seluruh Indonesia dibuktikan dengan KTM.
+                                Peserta adalah mahasiswa aktif program studi Teknik Informatika, Sistem Informasi PTN/PTS S1/Diploma di seluruh Indonesia dibuktikan dengan KTM.
                                 </li>
                                 <li>
                                     Setiap perguruan tinggi diperbolehkan mengirimkan perwakilan lebih dari 1 tim.
@@ -205,14 +209,16 @@
                                 <li>
                                     Setiap anggota yang terdaftar hanya boleh bergabung dalam satu tim.
                                 </li>
+                                <li>
+                                    Setiap tim mengirimkan biaya registrasi Rp. 100.000,-
+                                </li>
                                 <li>Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan
                                     oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan
                                     Proposal Karya melalui email himatif@pelitabangsa.ac.id template dapat
                                     diunduh di ... <a href="https://drive.google.com/drive/folders/1yhTeE1QN1ACbLrtlhIsvsgraC_vo8Xxx">Link</a>
                                 </li>
                                 <li>
-                                    Karya harus sesuai dengan tema yaitu “Modern Smart Technology And
-                                    Culture”
+                                    Karya harus sesuai dengan tema yaitu “With UI/UX The Future Of Nation”.
                                 </li>
                                 <li>
                                     Perubahan anggota tim setelah pendaftaran online dan selama kompetisi tidak
@@ -220,7 +226,7 @@
                                 </li>
                                 <li>
                                     Panitia berhak mendiskualifikasi dan mencabut gelar juara jika ditemukan
-                                    kecurangan atau pelanggaran terhadap karya atau aturan IOT Competition.
+                                    kecurangan atau pelanggaran terhadap karya atau aturan UI/UX Competition.
                                 </li>
                             </p>
                         </div>
@@ -276,18 +282,18 @@
                                 proposal dapat diunduh di ... <br>
                                 • Peserta mengirimkan Proposal Karya dan Surat Pernyataan Orisinilitas
                                 Karya ke email himatif@pelitabangsa.ac.id dengan nama file PROPOSAL
-                                KARYA_JUDUL pada tanggal paling lambat Selasa, 3 Oktober 2021. <br>
+                                KARYA_JUDUL pada tanggal paling lambat tanggal, 19 Oktober 2021. <br>
                                 • Hasil seleksi tahap 1 akan diumumkan melalui email peserta pada Senin, 23
                                 Agustus 2021. <br>
                             </p>
                             <span>2. BABAK FINAL</span>
                             <p>
                                 • Peserta yang lolos tahap 1 melakukan Technical Meeting yang dilaksanakan
-                                pada Sabtu, 28 Agustus 2021 yang dilaksanakan secara online melalui
+                                pada, 24 Agustus 2021 yang dilaksanakan secara online melalui
                                 Google Meet (apabila berhalangan hadir bisa menghubungi panitia pada
                                 contact person yang ada*). <br>
                                 • Peserta yang lolos tahap 1 melakukan presentasi karya secara online melalui
-                                Zoom pada Minggu, 10 Oktober 2021. <br>
+                                Zoom pada Minggu, 31 Oktober 2021. <br>
                                 • Peserta berpakaian sopan. <br>
                                 • Cakupan presentasi adalah penjelasan mengenai karya dan desain karya di
                                 depan dewan juri. <br>
@@ -295,7 +301,7 @@
                                 presentasi dan 15 menit untuk tanya jawab. <br>
                                 • Penjelasan lebih lanjut mengenai teknis pelaksanaannya akan dijelaskan saat
                                 Technical Meeting. <br>
-                                • Pemenang akan diumumkan pada Minggu, 17 Oktober 2021.
+                                • Pemenang akan diumumkan pada Minggu, 31 Oktober 2021.
                             </p>
                         </div>
                     </div>
@@ -349,7 +355,7 @@
                                         - Desain realistis dan mampu diimplementasikan pada
                                         teknologi yang akan digunakan. <br></td>
                                       <td>
-                                        40
+                                        30
                                       </td>
                                     </tr>
                                     <tr>
@@ -370,7 +376,7 @@
                                       <td>Tanya Jawab </td>
                                       <td>- Dapat menjawab pertanyaan dengan baik </td>
                                       <td>
-                                        10
+                                        20
                                       </td>
                                     </tr>
                                     <tr>
