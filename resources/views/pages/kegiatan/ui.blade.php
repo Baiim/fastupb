@@ -88,7 +88,7 @@
                               </div>
                               <div class="unit-body">
                                 <h5>Link template proposal karya dan surat pernyataan orisinalitas
-                                    karya : <a href="">Link Template Proposal</a>
+                                    karya : <a href="https://drive.google.com/drive/folders/1yhTeE1QN1ACbLrtlhIsvsgraC_vo8Xxx">Link Template Proposal</a>
                                 </h5>
                               </div>
                             </div>
@@ -208,7 +208,7 @@
                                 <li>Setiap tim wajib mengisi Surat Pernyataan Orisinalitas Karya yang disediakan
                                     oleh panitia disertai tanda tangan diatas materai yang dikirim bersamaan dengan
                                     Proposal Karya melalui email himatif@pelitabangsa.ac.id template dapat
-                                    diunduh di ... <a href="#">Link</a>
+                                    diunduh di ... <a href="https://drive.google.com/drive/folders/1yhTeE1QN1ACbLrtlhIsvsgraC_vo8Xxx">Link</a>
                                 </li>
                                 <li>
                                     Karya harus sesuai dengan tema yaitu “Modern Smart Technology And
@@ -395,27 +395,15 @@
                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                                <span>Total hadiah untuk kompetisi senilai jutaan rupiah, bagi pemenang (Juara I, II, III)
-                                    diberikan penghargaan berupa sertifikat dan dana pembinaan, sesuai dengan peringkat
-                                    juara :
+                                <span>HADIAH <br>
+                                    Uang Jutaan Rupiah + ecertifikat + evoucher + Hosting 1 Tahun
                                 </span>
-                                <li>
-                                    <ol>
-                                        Juara 1 : Rp 750.000,00 + sertifikat
-                                    </ol>
-                                    <ol>
-                                        Juara 2 : Rp 500.000,00 + sertifikat
-                                    </ol>
-                                    <ol>
-                                        Juara 3 : Rp 300.000,00 + sertifikat
-                                    </ol>
-                                </li>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-ui.index')}}" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="https://docs.google.com/forms/d/e/1FAIpQLSduFcoFvHDILNWuyyhKPNaQ-qVF4Ok4A06wVfeKwkJhmBtwxg/viewform" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

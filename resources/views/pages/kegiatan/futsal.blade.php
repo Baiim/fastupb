@@ -217,9 +217,6 @@ Turnamen Futsal | FAST UPB 2021
                 </div>
             </div>
             <div>
-                <a class="button button-primary button-round-1 wow fadeScale" href="http://bit.ly/TOURNAMENTFUTSALUPB" target="_blank" data-triangle=".button-overlay"><span>Mulai Daftar lomba</span><span class="button-overlay"></span></a>
-                <a class="button button-primary button-round-1 wow fadeScale" href="http://bit.ly/REGISTRASIFAST21" target="_blank" data-triangle=".button-overlay"><span>Upload Bukti Transfer</span><span class="button-overlay"></span></a>
-
             </div>
           </div>
         </div>

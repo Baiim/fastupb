@@ -103,21 +103,28 @@
                                     <tbody>
                                       <tr>
                                         <td>Pendaftaran</td>
-                                        <td>11 September – 09
-                                            Oktober 2021
-                                        </td>
-                                        <td>-</td>
-                                      </tr>
-                                      <tr>
-                                        <td>Submit </td>
-                                        <td>11 September – 03
+                                        <td>29 September – 20
                                             Oktober 2021
                                         </td>
                                         <td>Online</td>
                                       </tr>
                                       <tr>
+                                        <td>Pengumpulan karya + bukti pembayaran </td>
+                                        <td>29 September – 20
+                                            Oktober 2021
+                                        </td>
+                                        <td>Online</td>
+                                      </tr>
+                                      <tr>
+                                        <td>Pengumuman Tahap 1 </td>
+                                        <td> 23 Oktober 2021
+                                        </td>
+                                        <td>Online
+                                        </td>
+                                      </tr>
+                                      <tr>
                                         <td>Technical Meeting </td>
-                                        <td>  09 Oktober 2021
+                                        <td> 24 Oktober 2021
                                         </td>
                                         <td>Grup Whatsapp / Guide
                                             Book
@@ -125,12 +132,12 @@
                                       </tr>
                                       <tr>
                                         <td>Presentasi Karya (penjurian)</td>
-                                        <td>16 Oktober 2021 </td>
+                                        <td>31 Oktober 2021 </td>
                                         <td>Google Meet / Zoom </td>
                                       </tr>
                                       <tr>
                                         <td>Pengumuman Lomba</td>
-                                        <td>17 Oktober 2021 </td>
+                                        <td>31 Oktober 2021 </td>
                                         <td>Auditorium Universitas Pelita Bangsa</td>
                                       </tr>
                                     </tbody>
@@ -397,27 +404,15 @@
                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                                <span>Total hadiah untuk kompetisi senilai jutaan rupiah, bagi pemenang (Juara I, II, III)
-                                    diberikan penghargaan berupa sertifikat dan dana pembinaan, sesuai dengan peringkat
-                                    juara :
+                                <span>HADIAH <br>
+                                    Uang Jutaan Rupiah + ecertifikat + e Voucher
                                 </span>
-                                <li>
-                                    <ol>
-                                        Juara 1 : Rp 1000.000,00 + sertifikat
-                                    </ol>
-                                    <ol>
-                                        Juara 2 : Rp 500.000,00 + sertifikat
-                                    </ol>
-                                    <ol>
-                                        Juara 3 : Rp 300.000,00 + sertifikat
-                                    </ol>
-                                </li>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-iot.index')}}" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
+            <a class="button button-primary button-round-1 wow fadeScale" href="https://docs.google.com/forms/d/e/1FAIpQLSd_7ojr8VVYxq9UynfWtiYljKq85-RHLVCxbgBqZiy3cm9TbA/viewform" target="_blank" data-triangle=".button-overlay"><span>Daftar lomba</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

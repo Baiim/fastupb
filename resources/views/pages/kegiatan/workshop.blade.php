@@ -240,7 +240,6 @@
                     </div>
                 </div>
             </div>
-            <a class="button button-primary button-round-1 wow fadeScale" href="{{route('form-film.index')}}" target="_blank" data-triangle=".button-overlay"><span>Pendaftaran</span><span class="button-overlay"></span></a></div>
           </div>
         </div>
       </section>

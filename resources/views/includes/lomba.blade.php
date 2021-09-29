@@ -7,12 +7,23 @@
                 <h3>FAST UPB</h3>
               <div class="row row-30 row-lg-50 justify-content-center">
                 <div class="col-sm-5 col-lg-3">
+                    <div class="wow">
+                      <div class="card">
+                        <!-- Sponsor--><a class="sponsor" href="{{route('lomba-film')}}" data-triangle=".sponsor-overlay">
+                          <div class="sponsor-overlay"></div>
+                          <div class="sponsor-img"><img src="images/lomba/new/film.png" alt="" width="117" height="70"/> <br>
+                          <span>Film Pendek Umum</span>
+                          </div></a>
+                      </div>
+                    </div>
+                  </div>
+                <div class="col-sm-5 col-lg-3">
                   <div class="wow">
                     <div class="card">
                       <!-- Sponsor--><a class="sponsor" href="{{route('lomba-film')}}" data-triangle=".sponsor-overlay">
                         <div class="sponsor-overlay"></div>
                         <div class="sponsor-img"><img src="images/lomba/new/film.png" alt="" width="117" height="70"/> <br>
-                        <span>Film Pendek</span>
+                        <span>Film Pendek Mahasiswa</span>
                         </div></a>
                     </div>
                   </div>
