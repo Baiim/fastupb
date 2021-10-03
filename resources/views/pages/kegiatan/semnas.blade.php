@@ -83,7 +83,7 @@
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                         <div class="card-body">
                             <p>
-                              <b>1. Dr. Nina Kurnia Hikmawati, S.E., M.M</b> <br>
+                              <b>1. DR. Nina Kurnia Hikmawati, S.E., M.M</b> <br>
                               Sekjen I Bidang Eksternal APTIKOM <br> <br>
 
                               <b>2. DR. Iwan Eli Setiawan S.Kom., M.Kom.</b> <br>
@@ -119,11 +119,11 @@
                     </div>
                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                         <div class="card-body">
-                            <span>1. Melakukan pendaftaran seminar dan mengisi link google form di button bawah</span>
-                            <span>2. Melakukan pembayaran pada No. Rek …….</span>
-                            <p>- Pelajar Rp. 25.000,- <br>
-                                - Mahasiswa Rp. 35.000,- <br>
-                                - Umum Rp.50.000,-
+                            <p>
+                              1. Sistem Pelaksanaan : Offline & Online <br>
+                              2. Kuota Offline : 200 Peserta <br>
+                              3. Kuota Online : Tidak terbatas <br>
+                              4. Free Registrasi.
                             </p>
                         </div>
                     </div>
